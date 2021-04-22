@@ -1,2 +1,4 @@
 # 18CSMP63-VTU-Mobile-Application-Development-Lab-Programs
-lab programs as per newly introduced VTU Syllabus on Mobile Application Development using Java
+Create an application to design a Visiting Card. The Visiting card should have a company logo at the top right corner. The company name should be displayed in Capital letters, aligned to the center. Information like the name of the employee, job title, phone number, address, email, fax and the website address is to be displayed. Insert a horizontal line between the job title and the phone number.  
+
+For any queries: nithingowda021@vvce.ac.in  0r 8050462225
